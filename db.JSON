@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Coffee Beans",
+      "description": "Rich dark roast coffee",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "name": "Vanilla Latte",
+      "description": "Smooth vanilla flavor",
+      "price": 10
+    }
+  ]
+}
