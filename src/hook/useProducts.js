@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API = "http://localhost:6001/products";
+const API = "https://ecommerce-admin-portal-api.onrender.com/products";
 
 export default function useProducts() {
   const [products, setProducts] = useState([]);
