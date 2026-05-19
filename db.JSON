@@ -3,14 +3,34 @@
     {
       "id": 1,
       "name": "Coffee Beans",
-      "description": "Rich dark roast coffee",
-      "price": 15
+      "description": "Rich dark roast coffee with bold flavor",
+      "price": 15,
+      "category": "beans",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
     },
     {
       "id": 2,
       "name": "Vanilla Latte",
-      "description": "Smooth vanilla flavor",
-      "price": 10
+      "description": "Smooth latte with vanilla syrup",
+      "price": 10,
+      "category": "drinks",
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5"
+    },
+    {
+      "id": 3,
+      "name": "Cappuccino",
+      "description": "Classic espresso with foamy milk",
+      "price": 12,
+      "category": "drinks",
+      "image": "https://images.unsplash.com/photo-1534778101976-62847782c213"
+    },
+    {
+      "id": 4,
+      "name": "Espresso Shot",
+      "description": "Strong concentrated coffee shot",
+      "price": 5,
+      "category": "drinks",
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
     }
   ]
 }
