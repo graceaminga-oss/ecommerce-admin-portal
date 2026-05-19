@@ -41,3 +41,4 @@ https://ecommerce-admin-portal-api-2.onrender.com/products
 
 Custom Hook;
 I used a custom hook (useProducts) to fetch products and keep the code clean and reusable across components.
+JSON Server; https://ecommerce-admin-portal-api-2.onrender.com
