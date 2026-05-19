@@ -37,7 +37,7 @@ Tailwind CSS
 JSON Server (API)
 
 The app connects to this API:
-https://ecommerce-admin-portal-api.onrender.com/products
+https://ecommerce-admin-portal-api-2.onrender.com/products
 
 Custom Hook;
 I used a custom hook (useProducts) to fetch products and keep the code clean and reusable across components.
