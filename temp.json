@@ -26,24 +26,6 @@
       "category": "drinks",
       "stock": 22,
       "image": "https://images.unsplash.com/photo-1534778101976-62847782c213"
-    },
-    {
-      "id": 4,
-      "name": "Caramel Macchiato",
-      "description": "Sweet caramel espresso layered with milk",
-      "price": 13,
-      "category": "drinks",
-      "stock": 18,
-      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"
-    },
-    {
-      "id": 5,
-      "name": "Espresso Shot",
-      "description": "Intense and concentrated espresso shot",
-      "price": 5,
-      "category": "drinks",
-      "stock": 50,
-      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
     }
-    ]
+  ]
 }
