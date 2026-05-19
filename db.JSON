@@ -2,35 +2,48 @@
   "products": [
     {
       "id": 1,
-      "name": "Coffee Beans",
-      "description": "Rich dark roast coffee with bold flavor",
+      "name": "Coffee Beans Premium Roast",
+      "description": "Rich dark roast coffee beans with bold flavor",
       "price": 15,
       "category": "beans",
+      "stock": 45,
       "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
     },
     {
       "id": 2,
       "name": "Vanilla Latte",
-      "description": "Smooth latte with vanilla syrup",
+      "description": "Smooth espresso latte with vanilla syrup",
       "price": 10,
       "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5"
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1fcef"
     },
     {
       "id": 3,
-      "name": "Cappuccino",
-      "description": "Classic espresso with foamy milk",
+      "name": "Classic Cappuccino",
+      "description": "Italian cappuccino with creamy foam",
       "price": 12,
       "category": "drinks",
+      "stock": 22,
       "image": "https://images.unsplash.com/photo-1534778101976-62847782c213"
     },
     {
       "id": 4,
+      "name": "Caramel Macchiato",
+      "description": "Sweet caramel espresso layered with milk",
+      "price": 13,
+      "category": "drinks",
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085"
+    },
+    {
+      "id": 5,
       "name": "Espresso Shot",
-      "description": "Strong concentrated coffee shot",
+      "description": "Intense and concentrated espresso shot",
       "price": 5,
       "category": "drinks",
-      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
     }
-  ]
+    ]
 }
