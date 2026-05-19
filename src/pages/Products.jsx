@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import useProducts from "../hook/useProducts";
 
-const API = "https://ecommerce-admin-portal-api.onrender.com/products";
+const API = "https://ecommerce-admin-portal-api-2.onrender.com/products";
 
 export default function Products() {
   const [products, setProducts] = useProducts();
