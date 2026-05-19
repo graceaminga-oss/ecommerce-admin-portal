@@ -5,8 +5,6 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "server": "json-server --watch db.json --port 6001",
-    "start": "json-server --watch db.json --host 0.0.0.0 --port 10000",
     "build": "vite build",
     "test": "vitest",
     "lint": "eslint .",
@@ -14,7 +12,6 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.0",
-    "json-server": "^0.17.4",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "react-router-dom": "^7.15.1",
